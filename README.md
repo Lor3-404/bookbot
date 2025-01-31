@@ -1,2 +1,2 @@
 # bookbot
-Nub's second repository
+BookBot is my first project!
